@@ -4,11 +4,11 @@ Welcome to my digital realm! I'm a passionate software developer with a journey 
 
 ## 🚀 About Me
 
-From my first forays into programming at the age of 11 to my formal education as a computer engineer, I've experienced and learned from every phase of my journey. With a decade of professional experience, I specialize in web development, database systems, Linux, and more recently, mobile app development, large-scale systems, and DevOps practices.
+From my first forays into programming at the age of 11 to my formal education as a computer engineer, I've experienced and learned from every phase of my journey. With more than two decades of professional experience, I specialize in web development, database systems, Linux, and more recently, mobile app development, large-scale systems, and DevOps practices.
 
 ## 🌐 Explore My World
 
-Discover more about my journey, projects, and insights by visiting my [personal website](https://rafageist.com). From detailed notes in Obsidian to my professional evolution, you'll find a digital compendium reflecting my passion for technology.
+Discover more about my journey, projects, and insights by visiting my [personal website](https://rafageist.com). From detailed notes to my professional evolution, you'll find a digital compendium reflecting my passion for technology.
 
 ## 📫 Contact Me
 
