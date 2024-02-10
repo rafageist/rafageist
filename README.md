@@ -8,7 +8,7 @@ From my first forays into programming at the age of 11 to my formal education as
 
 ## 🌐 Explore My World
 
-Discover more about my journey, projects, and insights by visiting my [personal website](https://www.rafageist.com). From detailed notes in Obsidian to my professional evolution, you'll find a digital compendium reflecting my passion for technology.
+Discover more about my journey, projects, and insights by visiting my [personal website](https://rafageist.com). From detailed notes in Obsidian to my professional evolution, you'll find a digital compendium reflecting my passion for technology.
 
 ## 📫 Contact Me
 
