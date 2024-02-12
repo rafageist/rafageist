@@ -1,4 +1,5 @@
 # Hello, I'm @rafageist 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafageist&show_icons=true&theme=dark)](https://github.com/rafageist)
 
 Welcome to my digital realm! I'm a passionate software developer with a journey that spans from the early days of programming to specializing in web technologies, large-scale systems, and automation.
 
