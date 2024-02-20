@@ -1,5 +1,6 @@
 # Hello, I'm @rafageist 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafageist&show_icons=true&theme=dark)](https://github.com/rafageist)
+
+<a href="https://app.daily.dev/rafageist"><img src="https://api.daily.dev/devcards/v2/YhEpwXdlkRpAA491aj7nP.png?type=default&r=6mz" width="356" alt="Rafa Rodríguez's Dev Card"/></a>
 
 Welcome to my digital realm! I'm a passionate software developer with a journey that spans from the early days of programming to specializing in web technologies, large-scale systems, and automation.
 
@@ -14,5 +15,7 @@ Discover more about my journey, projects, and insights by visiting my [personal 
 ## 📫 Contact Me
 
 Connect with me! If you have questions, comments, or just want to chat about technology, feel free to [email me](mailto:rafageist@divengine.com).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafageist&show_icons=true&theme=dark)](https://github.com/rafageist)
 
 Thanks for visiting and exploring my digital space! 🌟
