@@ -17,4 +17,4 @@ Connect with me! If you have questions, comments, or just want to chat about tec
 Thanks for visiting and exploring my digital space! 🌟
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafageist&show_icons=true&theme=dark)](https://github.com/rafageist)
-<a href="https://app.daily.dev/rafageist"><img src="https://api.daily.dev/devcards/v2/YhEpwXdlkRpAA491aj7nP.png?type=default&r=6mz" width="356" alt="Rafa Rodríguez's Dev Card"/></a>
+<a href="https://app.daily.dev/rafageist"><img src="https://api.daily.dev/devcards/v2/YhEpwXdlkRpAA491aj7nP.png?type=wide&r=yhs" width="652" alt="Rafa Rodríguez's Dev Card"/></a>
