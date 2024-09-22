@@ -4,6 +4,8 @@
 ![](https://img.shields.io/badge/Desktop-Developer-red)
 ![](https://img.shields.io/badge/Linux-User-black)
 
+![](rafageist-vault.gif)
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE resume PUBLIC "-//Sean Kelly//DTD Resume 1.5.1//EN"
