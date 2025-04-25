@@ -11,7 +11,6 @@ With so much experience across different technologies, each day feels like the b
   <img src="https://img.shields.io/badge/Windows-Admin-black">
   <img src="https://img.shields.io/badge/Chess-Enthusiastic-brown">
 </p>
-<p align="center"><img width="65%" src="rafageist-vault.gif"></p>
 <p align="center">
   <a href="https://github.com/rafageist"><img src="https://img.shields.io/github/followers/rafageist.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://twitter.com/rafageist"><img src="https://img.shields.io/twitter/follow/rafageist?label=Twitter&style=social" alt="Twitter"></a>
