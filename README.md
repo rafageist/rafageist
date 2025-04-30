@@ -25,7 +25,6 @@ With so much experience across different technologies, each day feels like the b
 <table align="center" width="70%">
   <tr>
     <td><img src="https://github-profile-trophy.vercel.app/?username=rafageist&theme=kimbie_dark&column=3&row=3"></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafageist&langs_count=10">  </td>
   </tr>
 </table>
 
