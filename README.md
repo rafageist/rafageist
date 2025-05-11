@@ -30,9 +30,6 @@ With so much experience across different technologies, each day feels like the b
 
 </p>
 
-<p>
-  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rafageist&theme=react"></a>
-</p>
 
 
 
