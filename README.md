@@ -1,5 +1,3 @@
-With so much experience across different technologies, each day feels like the beginning of a new journey.
-
 [![committers.top badge](https://user-badge.committers.top/suriname_private/rafageist.svg)](https://user-badge.committers.top/suriname_private/rafageist)
 
 <p align="left">
