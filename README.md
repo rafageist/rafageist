@@ -1,3 +1,8 @@
+# 👋 Hi, I’m Rafa Rodríguez  
+
+I entered the world of computing in **1997**, writing small programs as a kid in Cuba.  
+Since then, I’ve turned that passion into a career spanning **software engineering, entrepreneurship, and research**.  
+
 [![committers.top badge](https://user-badge.committers.top/suriname_private/rafageist.svg)](https://user-badge.committers.top/suriname_private/rafageist)
 
 <p align="left">
@@ -14,6 +19,44 @@
   <img src="https://img.shields.io/badge/Programming-Contest-red">
   <img src="https://img.shields.io/badge/Chess-Enthusiastic-brown">
 </p>
+
+## Timeline Highlights  
+
+- 🏆 **2025** – 5 years at [Magaya](https://magaya.com) as Software Engineer  
+- 🚀 **2021** – Founded [Divengine Software Solutions](https://divengine.com) in Suriname  
+- 👨‍💻 **2011** – Co-founded [Apretaste!](https://apretaste.net), bringing internet access to Cuba  
+- 🎓 **2010** – B.Sc. in Software Engineering (Technological University of Havana)  
+- 🏅 **2009** – ACM-ICPC programming contest  
+- 💻 **1997** – First steps into programming  
+
+## 📂 Featured Repositories  
+
+- ✍️ [**blog-reflections**](https://github.com/rafageist/blog-reflections) – Versioned notebook of personal reflections on time, logic, information, and systems. All content lives in the Wiki. Released periodically as a PDF.  
+- 🧩 [**stage-design-pattern**](https://github.com/rafageist/stage-design-pattern) – A behavioral design pattern for structured, asynchronous communication between objects with explicit Speaker and Listener roles, ensuring scalability, maintainability, and clear architectural practices..  
+- 🔄 [**process-design-pattern**](https://github.com/rafageist/process-design-pattern) – Behavioral Design Pattern focused on managing the behavior and interactions of software processes. Related to patterns dealing with workflows, states, and decisions but introduces its own unique methodology. 
+- 🏗️ [**abcd-architecture**](https://github.com/rafageist/abcd-architecture) – Architecture designed to demonstrate how to structure applications with clear responsibilities, leveraging a modular and scalable approach.
+- ⚡ [**proposal-universal-catch-and-when**](https://github.com/rafageist/proposal-universal-catch-and-when) – Proposal to extend error handling in ECMAScript by allowing any block to have multiple "catch" and "finally" clauses. A new "when" clause is introduced for conditional errors and the "catch" body is allowed to be optional. 
+
+## 🌍 Divengine  
+
+I’m also the founder of [**Divengine Software Solutions**](https://divengine.com), dedicated to:  
+
+- Developing and maintaining software with an **educational or public access purpose**.  
+- Creating and delivering **educational programs** in science and technology.  
+- Running **workshops and research** in science and technology.  
+- Publishing and sharing **educational and technological content**.  
+
+## Let’s Connect  
+
+- [divengine.com](https://divengine.com)  
+- [LinkedIn](https://linkedin.com/in/rafageist)  
+- [Twitter](https://twitter.com/rafageist)  
+- rafageist@hotmail.com  
+- [![CV](https://img.shields.io/badge/Download-CV-blue)](https://divengine.com/download.php?file=cv-rafageist-2025-08-10.pdf)  
+
+---
+
+⚡ *Three decades in tech — still learning, still building, still sharing.*  
 
 <p align="center">
   <a href="https://github.com/rafageist"><img src="https://img.shields.io/github/followers/rafageist.svg?label=GitHub&style=social" alt="GitHub"></a>
