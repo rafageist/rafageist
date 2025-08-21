@@ -15,15 +15,17 @@
 
 # Hi, I’m Rafa Rodríguez  
 
-I entered the world of computing in **1997**, writing small programs as a kid in Cuba.  
-Since then, I’ve turned that passion into a career spanning **software engineering, entrepreneurship, and research**.  
+I entered the world of computing in **1997**, writing small programs as a kid in Cuba.  Since then, I’ve turned that passion into a career spanning **software engineering, entrepreneurship, and research**. 
+
+> [!NOTE]
+> ⚡ *Three decades in tech and still learning, still building, still sharing.* 
 
 [![CV](https://img.shields.io/badge/Download-CV-blue)](https://divengine.com/download.php?file=cv-rafageist-2025-08-10.pdf) [![committers.top badge](https://user-badge.committers.top/suriname_private/rafageist.svg)](https://user-badge.committers.top/suriname_private/rafageist)
 
 ```mermaid
 gantt
   dateFormat  YYYY
-  title  Rafa Rodríguez — Career Timeline
+  title  Career Timeline
 
   section Foundations
   Started programming                  :milestone, m1, 1997, 0y
@@ -56,7 +58,7 @@ gantt
 ## Timeline Highlights  
 
 - 🏆 **2025** – 5 years at [Magaya](https://magaya.com) as Software Engineer  
-- 🚀 **2021** – Founded [Divengine Software Solutions](https://divengine.com) in Suriname  
+- 🚀 **2011** – Founded [Divengine Software Solutions](https://divengine.com) 
 - 👨‍💻 **2011** – Co-founded [Apretaste!](https://apretaste.net), bringing internet access to Cuba  
 - 🎓 **2010** – B.Sc. in Software Engineering (Technological University of Havana)  
 - 🏅 **2009** – ACM-ICPC programming contest  
@@ -74,30 +76,7 @@ gantt
 
 - ⚡ [**proposal-universal-catch-and-when**](https://github.com/rafageist/proposal-universal-catch-and-when) – Proposal to extend error handling in ECMAScript by allowing any block to have multiple "catch" and "finally" clauses. A new "when" clause is introduced for conditional errors and the "catch" body is allowed to be optional. 
 
-## Divengine  
-
-I’m also the founder of [**Divengine Software Solutions**](https://divengine.com), dedicated to:  
-
-- Developing and maintaining software with an **educational or public access purpose**.  
-- Creating and delivering **educational programs** in science and technology.  
-- Running **workshops and research** in science and technology.  
-- Publishing and sharing **educational and technological content**.  
-
----
-
-⚡ *Three decades in tech and still learning, still building, still sharing.*  
-
-<p align="center">
-  <a href="https://github.com/rafageist"><img src="https://img.shields.io/github/followers/rafageist.svg?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://twitter.com/rafageist"><img src="https://img.shields.io/twitter/follow/rafageist?label=Twitter&style=social" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/rafageist/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
-<table align="center" width="70%">
-  <tr>
-    <td><img src="https://github-profile-trophy.vercel.app/?username=rafageist&theme=kimbie_dark&column=3&row=3"></td>
-  </tr>
-</table>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=rafageist&theme=kimbie_dark&column=9&row=1">
 
 
 
