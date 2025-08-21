@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Chess-Enthusiastic-brown">
 </p>
 
-# Hi, I’m Rafa Rodríguez  
+# Hi
 
 I entered the world of computing in **1997**, writing small programs as a kid in Cuba.  Since then, I’ve turned that passion into a career spanning **software engineering, entrepreneurship, and research**. 
 
