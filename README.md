@@ -60,6 +60,10 @@ gantt
   PostgreSQL                                :active, pg,  2005, 2025
   Prolog                                    :active, pl,  2005, 2025
   Java                                      :active, jav, 2007, 2025
+  C#                                        :active, cs,  2015, 2025
+  TypeScript                                :active, ts,  2016, 2025
+  React.js                                  :active, rjs, 2020, 2025
+  Vue.js                                    :active, vjs, 2020, 2025
   Linux                                     :active, lin, 2007, 2025
   Git & GitHub                              :active, git, 2012, 2025
   Node-RED                                  :active, nrd, 2015, 2025
@@ -74,6 +78,7 @@ gantt
   Software Engineering (RUP & UML)          :active, rup, 2006, 2025
   Artificial Intelligence                   :active, ai,  2006, 2025
   BPM & BPMN                                :active, bpm, 2007, 2025
+
 
 ```
 
