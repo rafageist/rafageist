@@ -58,18 +58,24 @@ gantt
   Delphi                                    :done,   del, 2005, 2007
   C++                                       :active, cpp, 2005, 2025
   PHP                                       :active, php, 2005, 2025
+  Drupal                                    :active, drp, 2005, 2025
+  Joomla                                    :active, jml, 2005, 2025
+  WordPress                                 :active, wp,  2005, 2025
   PostgreSQL                                :active, pg,  2005, 2025
   Prolog                                    :active, pl,  2005, 2025
   Java                                      :active, jav, 2007, 2025
   Microsoft SQL Server                      :done,   mss, 2007, 2010
+  Python                                    :active, py,  2011, 2025
+  Git & GitHub                              :active, git, 2012, 2025
   C#                                        :active, cs,  2015, 2025
+  Node-RED                                  :active, nrd, 2015, 2025
   Ruby / Ruby on Rails                      :active, rb,  2015, 2025
+  Node.js                                   :active, ndj, 2016, 2025
   TypeScript                                :active, ts,  2016, 2025
   React.js                                  :active, rjs, 2020, 2025
   Vue.js                                    :active, vjs, 2020, 2025
+  Odoo                                      :active, odd, 2024, 2025
   Linux                                     :active, lin, 2007, 2025
-  Git & GitHub                              :active, git, 2012, 2025
-  Node-RED                                  :active, nrd, 2015, 2025
 
   section Office Tools
   Microsoft Excel                           :active, xls, 2000, 2025
