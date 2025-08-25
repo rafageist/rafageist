@@ -25,26 +25,44 @@ I entered the world of computing in **1997**, writing small programs as a kid in
 ```mermaid
 gantt
   dateFormat  YYYY
-  title  Career Timeline
+  axisFormat  %Y
+  title  Career Timeline (1997–Present)
+  todayMarker on
 
-  section Foundations
-  Started programming                  :milestone, m1, 1997, 0y
-  High School (Exact Sciences)         :active,    2001, 2004
+  section Professional Identity
+  Software Engineer                         :active, se, 1997, 2025
+  Software Architect                        :active, sa, 2012, 2025
+  Project Manager                           :active, pm, 2015, 2025
 
   section Education
-  B.Sc. Software Engineering (CUJAE)   :           2005, 2010
-  ACM-ICPC Contest                     :milestone, m2, 2009, 0y
+  High School (Exact Sciences)              :done,  hs, 2001, 2004
+  B.Sc. in Software Engineering (CUJAE)     :done,  bs, 2005, 2010
+
+  section Service
+  Military Service — IT, Army Central Logistics Unit :done, mil, 2004, 2005
 
   section Entrepreneurship
-  Co-founded Apretaste!                :           2011, 2025
-  Founded Divengine                    :           2011, 2025
+  Co‑founder — Apretaste!                   :active, ap, 2011, 2025
+  Founder — Divengine                       :active, de, 2011, 2025
 
   section Industry
-  Software Engineer @ Magaya           :           2020, 2025
+  Software Engineer — Magaya                :active, mg, 2020, 2025
 
-  section Milestones
-  5 years @ Magaya                     :milestone, m3, 2025, 0y
+  section Technologies
+  BASIC (Mallard/GW/Quick)                  :done,   bas, 1997, 2000
+  Pascal                                    :done,   pas, 2000, 2004
+  C                                         :done,   c,   2000, 2004
+  C++                                       :active, cpp, 2005, 2025
+  PHP                                       :active, php, 2005, 2025
+  Java                                      :active, jav, 2007, 2025
+  JavaScript                                :active, js,  2003, 2025
+  PostgreSQL                                :active, pg,  2005, 2025
+  Prolog                                    :active, pl,  2005, 2025
 
+  section Disciplines
+  Operations Research                       :active, or,  2000, 2025
+  Software Engineering (RUP & UML)          :active, rup, 2006, 2025
+  Artificial Intelligence                   :active, ai,  2006, 2025
 ```
 
 ## Let’s Connect  
