@@ -43,7 +43,7 @@ gantt
   Military Service — IT, Army Central Logistics Unit :done, mil, 2004, 2005
 
   section Entrepreneurship
-  Co‑founder — Apretaste!                   :active, ap, 2011, 2025
+  Co-founder — Apretaste!                   :active, ap, 2011, 2025
   Founder — Divengine                       :active, de, 2011, 2025
 
   section Industry
@@ -52,18 +52,29 @@ gantt
   section Technologies
   BASIC (Mallard/GW/Quick)                  :done,   bas, 1997, 2000
   Pascal                                    :done,   pas, 2000, 2004
-  C                                         :active,   c,   2000, 2004
+  C                                         :done,   c,   2000, 2004
+  JavaScript                                :active, js,  2003, 2025
+  Visual Basic 6                            :done,   vb6, 2004, 2010
   C++                                       :active, cpp, 2005, 2025
   PHP                                       :active, php, 2005, 2025
-  Java                                      :active, jav, 2007, 2025
-  JavaScript                                :active, js,  2003, 2025
   PostgreSQL                                :active, pg,  2005, 2025
   Prolog                                    :active, pl,  2005, 2025
+  Java                                      :active, jav, 2007, 2025
+  Linux                                     :active, lin, 2007, 2025
+  Git & GitHub                              :active, git, 2012, 2025
+  Node-RED                                  :active, nrd, 2015, 2025
+
+  section Office Tools
+  Microsoft Excel                           :active, xls, 2000, 2025
+  Microsoft Access                          :active, acc, 2002, 2025
+  VBA (Visual Basic for Applications)       :active, vba, 2003, 2025
 
   section Disciplines
   Operations Research                       :active, or,  2000, 2025
   Software Engineering (RUP & UML)          :active, rup, 2006, 2025
   Artificial Intelligence                   :active, ai,  2006, 2025
+  BPM & BPMN                                :active, bpm, 2007, 2025
+
 ```
 
 ## Let’s Connect  
