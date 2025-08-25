@@ -30,7 +30,8 @@ gantt
   todayMarker on
 
   section Professional Identity
-  Software Engineer                         :active, se, 1997, 2025
+  Programmer                                :active, se, 1997, 2025
+  Software Engineer                         :active, se, 2010, 2025
   Software Architect                        :active, sa, 2012, 2025
   Project Manager                           :active, pm, 2015, 2025
 
