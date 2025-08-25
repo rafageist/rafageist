@@ -52,7 +52,7 @@ gantt
   section Technologies
   BASIC (Mallard/GW/Quick)                  :done,   bas, 1997, 2000
   Pascal                                    :done,   pas, 2000, 2004
-  C                                         :done,   c,   2000, 2004
+  C                                         :active,   c,   2000, 2004
   C++                                       :active, cpp, 2005, 2025
   PHP                                       :active, php, 2005, 2025
   Java                                      :active, jav, 2007, 2025
