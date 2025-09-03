@@ -22,6 +22,19 @@ I entered the world of computing in **1997**, writing small programs as a kid in
 
 [![CV](https://img.shields.io/badge/Download-CV-blue)](https://divengine.com/download.php?file=cv-rafageist-2025-08-10.pdf) [![committers.top badge](https://user-badge.committers.top/suriname_private/rafageist.svg)](https://user-badge.committers.top/suriname_private/rafageist)
 
+h3 align="center">Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+</details>
+
+<details open>
+<summary>GitHub Contribution Chart</summary>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafageist&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+</p>
+</details>
+
 ```mermaid
 gantt
   dateFormat  YYYY
