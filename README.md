@@ -61,29 +61,34 @@ gantt
     Software Engineer — Magaya  :active, 2020, 2025
 
     section Key Milestones
-    First Drupal Websites       :milestone, 2005, 0y
-    Launch of Apretaste!        :milestone, 2011, 0y
-    Start with Python           :milestone, 2011, 0y
-    Joining Magaya              :milestone, 2020, 0y
-    Entering Odoo Ecosystem     :milestone, 2024, 0y
+    ACPOL Game (ASCII, BASIC/CP-M → MS-DOS)   :milestone, 1997, 0y
+    ASCII Paint & Custom Format for Sprites   :milestone, 1997, 0y
+    QBasic Inventory System (School Supplies) :milestone, 1998, 0y
+    Reports with Dot-Matrix Printers          :milestone, 1999, 0y
+    First Drupal Websites                     :milestone, 2005, 0y
+    Launch of Apretaste!                      :milestone, 2011, 0y
+    Start with Python                         :milestone, 2011, 0y
+    Joining Magaya                            :milestone, 2020, 0y
+    Entering Odoo Ecosystem                   :milestone, 2024, 0y
 
     section Core Technologies
-    BASIC, Pascal, C            :done,   1997, 2004
-    JavaScript / TypeScript     :active, 2003, 2025
-    C++ / C# / Java             :active, 2005, 2025
-    PHP + Drupal + WordPress    :active, 2005, 2025
-    PostgreSQL / SQL            :active, 2005, 2025
-    Python / Prolog             :active, 2011, 2025
-    Node.js / React / Vue       :active, 2016, 2025
-    Odoo                        :active, 2024, 2025
+    Mallard/GW/QBasic (ASCII graphics, UI framework) :done, 1997, 2000
+    Pascal, C                                  :done,   2000, 2004
+    JavaScript / TypeScript                    :active, 2003, 2025
+    C++ / C# / Java                            :active, 2005, 2025
+    PHP + Drupal + WordPress                   :active, 2005, 2025
+    PostgreSQL / SQL                           :active, 2005, 2025
+    Python / Prolog                            :active, 2011, 2025
+    Node.js / React / Vue                      :active, 2016, 2025
+    Odoo                                       :active, 2024, 2025
 
     section Disciplines & Tools
     Office Tools (Excel, Access, VBA) :active, 2000, 2025
-    Operations Research         :active, 2000, 2025
-    Software Eng. (RUP, UML)    :active, 2006, 2025
-    Artificial Intelligence     :active, 2006, 2025
-    BPM & BPMN                  :active, 2007, 2025
-    Linux / GitHub              :active, 2007, 2025
+    Operations Research               :active, 2000, 2025
+    Software Eng. (RUP, UML)          :active, 2006, 2025
+    Artificial Intelligence           :active, 2006, 2025
+    BPM & BPMN                        :active, 2007, 2025
+    Linux / GitHub                    :active, 2007, 2025
 ```
 
 ## Let’s Connect  
