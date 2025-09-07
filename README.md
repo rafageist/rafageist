@@ -37,70 +37,53 @@ I entered the world of computing in **1997**, writing small programs as a kid in
 
 ```mermaid
 gantt
-  dateFormat  YYYY
-  axisFormat  %Y
-  title  Career Timeline (1997–Present)
-  todayMarker on
+    dateFormat  YYYY
+    axisFormat  %Y
+    title  Career Timeline (1997–Present)
+    todayMarker on
 
-  section Professional Identity
-  Programmer                                :active, se, 1997, 2025
-  Software Engineer                         :active, se, 2010, 2025
-  Software Architect                        :active, sa, 2012, 2025
-  Project Manager                           :active, pm, 2015, 2025
+    section Professional Roles
+    Programmer                  :done,   1997, 2010
+    Software Engineer           :active, 2010, 2025
+    Software Architect          :active, 2012, 2025
+    Project Manager             :active, 2015, 2025
 
-  section Education
-  High School (Exact Sciences)              :done,  hs, 2001, 2004
-  B.Sc. in Software Engineering (CUJAE)     :done,  bs, 2005, 2010
+    section Education & Service
+    High School (Exact Sciences) :done, 2001, 2004
+    Military Service (Army IT)   :done, 2004, 2005
+    B.Sc. Software Eng. (CUJAE)  :done, 2005, 2010
 
-  section Service
-  Military Service — IT, Army Central Logistics Unit :done, mil, 2004, 2005
+    section Entrepreneurship
+    Co-founder — Apretaste!     :active, 2011, 2025
+    Founder — Divengine         :active, 2011, 2025
 
-  section Entrepreneurship
-  Co-founder — Apretaste!                   :active, ap, 2011, 2025
-  Founder — Divengine                       :active, de, 2011, 2025
+    section Industry Experience
+    Software Engineer — Magaya  :active, 2020, 2025
 
-  section Industry
-  Software Engineer — Magaya                :active, mg, 2020, 2025
+    section Key Milestones
+    First Drupal Websites       :milestone, 2005, 0y
+    Launch of Apretaste!        :milestone, 2011, 0y
+    Start with Python           :milestone, 2011, 0y
+    Joining Magaya              :milestone, 2020, 0y
+    Entering Odoo Ecosystem     :milestone, 2024, 0y
 
-  section Technologies
-  BASIC (Mallard/GW/Quick)                  :done,   bas, 1997, 2000
-  Pascal                                    :done,   pas, 2000, 2004
-  C                                         :done,   c,   2000, 2004
-  JavaScript                                :active, js,  2003, 2025
-  Visual Basic 6                            :done,   vb6, 2004, 2010
-  Delphi                                    :done,   del, 2005, 2007
-  C++                                       :active, cpp, 2005, 2025
-  PHP                                       :active, php, 2005, 2025
-  Drupal                                    :active, drp, 2005, 2025
-  Joomla                                    :done,   jml, 2005, 2012
-  WordPress (Phase I)                       :done,   wp1, 2005, 2012
-  WordPress (Phase II)                      :active, wp2, 2020, 2025
-  PostgreSQL                                :active, pg,  2005, 2025
-  Prolog                                    :active, pl,  2005, 2025
-  Java                                      :active, jav, 2007, 2025
-  Microsoft SQL Server                      :done,   mss, 2007, 2010
-  Linux                                     :active, lin, 2007, 2025
-  Python                                    :active, py,  2011, 2025
-  Git & GitHub                              :active, git, 2012, 2025
-  C#                                        :active, cs,  2015, 2025
-  Node-RED                                  :active, nrd, 2015, 2025
-  Ruby / Ruby on Rails                      :active, rb,  2015, 2025
-  Node.js                                   :active, ndj, 2016, 2025
-  TypeScript                                :active, ts,  2016, 2025
-  React.js                                  :active, rjs, 2020, 2025
-  Vue.js                                    :active, vjs, 2020, 2025
-  Odoo                                      :active, odd, 2024, 2025
+    section Core Technologies
+    BASIC, Pascal, C            :done,   1997, 2004
+    JavaScript / TypeScript     :active, 2003, 2025
+    C++ / C# / Java             :active, 2005, 2025
+    PHP + Drupal + WordPress    :active, 2005, 2025
+    PostgreSQL / SQL            :active, 2005, 2025
+    Python / Prolog             :active, 2011, 2025
+    Node.js / React / Vue       :active, 2016, 2025
+    Odoo                        :active, 2024, 2025
 
-  section Office Tools
-  Microsoft Excel                           :active, xls, 2000, 2025
-  Microsoft Access                          :active, acc, 2002, 2025
-  VBA (Visual Basic for Applications)       :active, vba, 2003, 2025
-
-  section Disciplines
-  Operations Research                       :active, or,  2000, 2025
-  Software Engineering (RUP & UML)          :active, rup, 2006, 2025
-  Artificial Intelligence                   :active, ai,  2006, 2025
-  BPM & BPMN                                :active, bpm, 2007, 2025
+    section Disciplines & Tools
+    Office Tools (Excel, Access, VBA) :active, 2000, 2025
+    Operations Research         :active, 2000, 2025
+    Software Eng. (RUP, UML)    :active, 2006, 2025
+    Artificial Intelligence     :active, 2006, 2025
+    BPM & BPMN                  :active, 2007, 2025
+    Linux / GitHub              :active, 2007, 2025
 ```
 
 ## Let’s Connect  
