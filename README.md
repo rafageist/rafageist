@@ -15,19 +15,9 @@
 
 # Hi
 
-I entered the world of computing in **1997**, writing small programs as a kid in Cuba.  Since then, I’ve turned that passion into a career spanning **software engineering, entrepreneurship, and research**. 
-
-> [!NOTE]
-> ⚡ *Three decades in tech and still learning, still building, still sharing.* 
+I entered the world of computing in **1997**, writing small programs as a kid in Cuba.  Since then, I’ve turned that passion into a career spanning **software engineering, computer science, entrepreneurship, and research**. 
 
 [![CV](https://img.shields.io/badge/Download-CV-blue)](https://divengine.com/download.php?file=cv-rafageist-2025-08-10.pdf) [![committers.top badge](https://user-badge.committers.top/suriname_private/rafageist.svg)](https://user-badge.committers.top/suriname_private/rafageist)
-
-<details open>
-<summary>GitHub Contribution Chart</summary>
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafageist&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
-</p>
-</details>
 
 ```mermaid
 gantt
@@ -84,6 +74,13 @@ gantt
     BPM & BPMN                        :active, 2007, 2025
     Linux / GitHub                    :active, 2007, 2025
 ```
+
+<details open>
+<summary>GitHub Contribution Chart</summary>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafageist&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+</p>
+</details>
 
 ## Let’s Connect  
 
