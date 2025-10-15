@@ -33,8 +33,7 @@ gantt
     Project Manager             :active, 2015, 2025
 
     section Education & Service
-    High School (Exact Sciences) :done, 2001, 2004
-    Military Service (Army IT)   :done, 2004, 2005
+    High School (Exact Sciences) :done, 2001, 2005
     B.Sc. Software Eng. (CUJAE)  :done, 2005, 2010
 
     section Entrepreneurship
