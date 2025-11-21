@@ -1,16 +1,23 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/Software-Engineer-blue">
-  <img src="https://img.shields.io/badge/Software-Architect-blue">
-  <img src="https://img.shields.io/badge/Project-Manager-blue">
-  <img src="https://img.shields.io/badge/Web-Developer-white">
-  <img src="https://img.shields.io/badge/App-Developer-green">
-  <img src="https://img.shields.io/badge/Desktop-Developer-red"><br/>
-  <img src="https://img.shields.io/badge/Linux-Admin-black">
-  <img src="https://img.shields.io/badge/Windows-Admin-black">
-  <img src="https://img.shields.io/badge/Social-Media-blue">
-  <img src="https://img.shields.io/badge/Community-Manager-blue">
-  <img src="https://img.shields.io/badge/Programming-Contest-red">
-  <img src="https://img.shields.io/badge/Chess-Enthusiastic-brown">
+
+  <img src="https://img.shields.io/badge/Senior-Engineer-blue" />
+  <img src="https://img.shields.io/badge/Computer-Scientist-blue" />
+  <img src="https://img.shields.io/badge/Digital-Transformation-green" />
+  <img src="https://img.shields.io/badge/Software-Architect-blue" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/System-Design-blue" />
+  <img src="https://img.shields.io/badge/Process-Design-green" />
+  <img src="https://img.shields.io/badge/Database-Design-purple" />
+  <img src="https://img.shields.io/badge/Backend-Engineer-blue" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Linux-Admin-black" />
+  <img src="https://img.shields.io/badge/Cloud-Systems-grey" />
+  <img src="https://img.shields.io/badge/Mentor-and-Trainer-yellow" />
+
 </p>
 
 # Hi
