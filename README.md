@@ -24,7 +24,7 @@
 
 I entered the world of computing in **1997**, writing small programs as a kid in Cuba.  Since then, I’ve turned that passion into a career spanning **software engineering, computer science, entrepreneurship, and research**. 
 
-[![CV](https://img.shields.io/badge/Download-CV-blue)](https://divengine.com/download.php?file=cv-rafageist-2025-08-10.pdf) [![committers.top badge](https://user-badge.committers.top/suriname_private/rafageist.svg)](https://user-badge.committers.top/suriname_private/rafageist)
+[![CV](https://img.shields.io/badge/Download-CV-blue)](https://github.com/rafageist/cv/releases) [![committers.top badge](https://user-badge.committers.top/suriname_private/rafageist.svg)](https://user-badge.committers.top/suriname_private/rafageist)
 
 ```mermaid
 gantt
