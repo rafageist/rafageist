@@ -21,7 +21,7 @@
 
 </p>
 
-# Hi, I’m Rafael Rodriguez
+# hi, i’m rafa
 
 I entered the world of computing in **1997**, writing small programs as a kid in Cuba. Since then, I’ve turned that passion into a career spanning **software engineering, computer science, entrepreneurship, and research**. 
 
